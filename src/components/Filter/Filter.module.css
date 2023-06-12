@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 320px;
+  gap: 10px;
+}
+.inputFilter {
+    max-width: 200px;
+  padding: 2px 12px;
+}
